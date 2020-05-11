@@ -4,7 +4,7 @@
 
 #include "Plante.h"
 #include "Fleur.h"
-#include "Botaniste.h"
+#include "botaniste.h"
 #include "Carnivore.h"
 
 using namespace std;
